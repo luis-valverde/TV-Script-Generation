@@ -1,4 +1,4 @@
-# Dog Breeds Classifier
+# TV Scripts Generation
 
 ## Table Of Contents
 
